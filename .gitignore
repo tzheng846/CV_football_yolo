@@ -1,0 +1,8 @@
+datasets
+runs
+stubs
+training
+*.pyc
+yolov8x.pt
+cvFootball-Best.pt
+output_video.avi
